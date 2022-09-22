@@ -1,0 +1,10 @@
+好吧这个就是用来用的，也没什么功能
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", 20);
+	return 0;
+}
+
+顺手写个代码玩玩
